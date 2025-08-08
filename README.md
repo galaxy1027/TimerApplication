@@ -1,1 +1,4 @@
 # TimerApplication
+
+Library used: https://github.com/alixahedi/I2C-LCD-STM32
+
